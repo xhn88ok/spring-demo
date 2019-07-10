@@ -43,8 +43,8 @@ public class TemplateTest {
         map.put(1,"Json");
         map.put(2,"LiLei");
         map.put(3,"HanMeiMei");
-
-
         System.out.println(map.size());
+
+        System.out.println(map.get(0));
     }
 }
